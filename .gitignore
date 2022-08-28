@@ -108,3 +108,4 @@ dist
 
 personal.json
 dist
+.prettierrc
