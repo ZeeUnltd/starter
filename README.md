@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7b819da234ad4dcfbf13ff485917d366)](https://www.codacy.com/gh/ZeeUnltd/starter/dashboard?utm_source=github.com&utm_medium=referral&utm_content=ZeeUnltd/starter&utm_campaign=Badge_Grade)
+
 # Frontend Assessment
 
 Build and deploy a very simple frontend app for paginated data, that does the following
